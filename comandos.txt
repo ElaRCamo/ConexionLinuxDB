@@ -1,0 +1,11 @@
+ifconfig 
+
+ipconfig 
+
+ifconfig > ifdown eth0 (Device 'eth0' successfully disconnected) > ifup eth0
+
+ssh oracle@172.16.12.226
+
+lsnrctl status
+lsnrctl stop
+lsnrctl start

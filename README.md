@@ -3,7 +3,8 @@
 En este tutorial, vamos a crear una base de datos desde cero con SQL Developer y SQL Modeler, y la conectaremos a un servidor Linux en una máquina virtual en VirtualBox desde Windows 10.Dale like y suscríbete si te resulta útil. ¡Empecemos ya!
 
 
-
+##Youtube: 
+https://youtu.be/UojZf9ZjdEU
 
 
 
